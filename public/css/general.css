@@ -1,0 +1,15 @@
+:root{
+    --tipografiaFamilia:'Roboto';
+    --tipografiaCuerpo: 12px;
+    --tipografiaTitulares:24px;
+    --tipografiaPrecios: 18px;
+    --tipografiaDescuentos: 16px;
+    --tipografiaDescripcion:16px;
+}
+
+/*Amarillo: #EAC926; Azul: #03264C; Celeste: #1259c3; Gris oscuro: #666; Gris claro: #ebebeb; Verde: #39b54a;*/
+/*Cuerpos de texto: 12px Titulares (Basado en tu última visita/Ofertas): Precios: 18px Descuentos: 16px Descripciones: 16px*/
+
+body.home{
+background-color:  #EAC926;
+}
