@@ -4,25 +4,25 @@ header{
     padding-bottom: 10px;
 }
 
-.header_div{
+.header--div{
     width: 40%;
     height: 10%;
 }
 
-.header_div img {
+.header-div img {
     margin-top: 20px;
     margin-left: 10px; 
 }
 
-.header_div_form {
+.header-div-form {
     margin-left: 10px;
 }
 
-.header_p {
+.header-p {
     text-align: center;
 }
 
-.header_menu ul {
+.header-menu ul {
     margin-left: 0px;
     list-style-type:none;
     padding-left: 0;
@@ -45,11 +45,11 @@ a {
 }
 
 /* MAIN */
-.main_section_article img{
+.main-section-article {
     width: 100%;
 }
 
-.main_section_h3{
+.main-section{
     font-size:  24px;
 }
 .precios {
@@ -70,13 +70,13 @@ footer {
     text-align: center;
 }
 
-.header_div_icon {
+.header-div {
     color:#1259c3 ;
     margin-bottom: 10px;
     font-size: 2em;
 }
 
-.footer_section_h3 { 
+.footer-section { 
     margin-bottom: 0%;
 }
 
