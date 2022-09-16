@@ -1,3 +1,5 @@
-@import url('https://fonts.googleapis.com/css2? family= Roboto:ital,wght@1,100 & display=swap');
-@import './home.css';
-@import './general.css';
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import "./general.css";
+@import "./home.css";
+@import "./register.css";
+@import "./login.css"
